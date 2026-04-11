@@ -1,5 +1,6 @@
 streamlit
-numpy
 pandas
-scikit-learn==1.4.2
+numpy
+scikit-learn
 textblob
+joblib
